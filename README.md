@@ -20,14 +20,6 @@ A sample of my recent articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphdraft1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raphael's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!-- links to social media icons -->
 
@@ -45,9 +37,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+<!-- [1]: --> 
+[2]: https://github.com/Raphdraft1
+[3]: [https://www.linkedin.com/in/https://www.linkedin.com/in/raphael-ngooi-019aa8208//](https://www.linkedin.com/in/raphael-ngooi-019aa8208/)
 
 
 <!-- Resources -->
