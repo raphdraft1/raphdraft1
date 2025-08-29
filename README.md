@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Raphael Ngooi and I'm a Computer Science student at the University of Wollongong. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Raphael Ngooi and I'm a Computer Science student at the University of Wollongong. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
