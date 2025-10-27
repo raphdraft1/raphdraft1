@@ -6,6 +6,13 @@
 My name is Raphael Ngooi and I'm a Computer Science student at the University of Wollongong. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
+Python:
+Pandas DB
+Tensorflow
+SciKit Learn
+MatplotLib
+
+SQL
 
 ## &#x270d; Blog & Writing
 
