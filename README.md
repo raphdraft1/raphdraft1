@@ -39,7 +39,7 @@ A sample of my recent articles:
 
 <!-- [1]: --> 
 [2]: https://github.com/Raphdraft1
-[3]: [https://www.linkedin.com/in/https://www.linkedin.com/in/raphael-ngooi-019aa8208//](https://www.linkedin.com/in/raphael-ngooi-019aa8208/)
+[3]: https://www.linkedin.com/in/raphael-ngooi-019aa8208/
 
 
 <!-- Resources -->
