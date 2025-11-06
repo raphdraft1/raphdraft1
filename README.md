@@ -20,14 +20,15 @@ My name is Raphael Ngooi and I'm a Computer Science student at the University of
 
 A sample of my recent articles:
 
-## &#x1f4c8; GitHub Stats
+## 📊 GitHub Stats
 
-<a href="https://github.com/Raphdraft1/Raphdraft1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphdraft1&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/Raphdraft1">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Raphdraft1&show_icons=true&count_private=true&include_all_commits=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raphael's GitHub Stats" />
 </a>
-<a href="https://github.com/Raphdraft1/Raphdraft1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raphdraft1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raphael's GitHub Stats" />
+<a href="https://github.com/Raphdraft1">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphdraft1&layout=compact&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 
 
 <!-- links to social media icons -->
