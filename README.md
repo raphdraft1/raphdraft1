@@ -22,12 +22,18 @@ A sample of my recent articles:
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Raphdraft1">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Raphdraft1&show_icons=true&count_private=true&include_all_commits=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raphael's GitHub Stats" />
-</a>
-<a href="https://github.com/Raphdraft1">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphdraft1&layout=compact&hide=jupyter%20notebook&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+
+  <a href="https://github.com/Raphdraft1">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphdraft1&layout=compact&hide=jupyter%20notebook&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+
+  <a href="https://github.com/Raphdraft1">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raphdraft1&show_icons=true&count_private=true&include_all_commits=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raphael's GitHub Stats" />
+  </a>
+
+</div>
+
 
 
 
