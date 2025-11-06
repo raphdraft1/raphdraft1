@@ -6,7 +6,7 @@
 My name is Raphael Ngooi and I'm a Computer Science student at the University of Wollongong. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-# AI & Data Science:
+### AI & Data Science:
 
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
