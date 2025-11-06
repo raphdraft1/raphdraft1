@@ -18,6 +18,8 @@ Currently studying Computer Science (Big Data & AI) and working on projects acro
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-012f54?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABQElEQVR4Xu3ZMW7CQBBF0W8gAhOkAydIB5JgG5JgEpkAOSQBOkgHkH8J7RUyvWWpdnZl+q2ra0fNzY2NjY2kGZhAz7GYxGIZhGIYhmEYhmEYhmEaYj9Bcwzggqt13Xd4Lk6nQ4FoFAqFQqFQqFQqFQqFQqFQqFYOI9j6+vry4nAEzTbbfb7Xb7fbDbDZrOZzOZ/P8/n8/n8/l8rn8/nw9n89ntdrtVqtVqtVqtVqtVqvVajUajUajUajUajUajUZrNZrNZrNZrNZrNZoPB6vX6/X4/H4/H4/H6/X6/X6/V6/X6/X6/X6/X6/f/ADRMtBfTwOHD8AAAAASUVORK5CYII=&logoColor=white"/>
+
 </p>
 
 ### 🌐 Web Development
