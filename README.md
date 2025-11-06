@@ -1,9 +1,13 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hey, I'm Raphael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Raphael Ngooi and I'm a Computer Science student at the University of Wollongong. You can find me on [![LinkedIn][3.2]][3].
+AI & Data Science • Web Development • Systems Thinker
+
+I like building things that make systems simpler, clearer, and more human.
+Currently studying Computer Science (Big Data & AI) and working on projects across data analytics, machine learning, and problem-solving tools.
+
 
 ## 🔧 Technologies & Tools
 ### AI & Data Science:
